@@ -1,8 +1,7 @@
 # Lithium-ion battery charger with protection - Eagle Files
 ## Image
-![charger image]
-(https://e-radionica.com/media/catalog/product/d/s/dsc_0469.jpg)
-[Lithium-ion battery charger with protection(222007)] (https://e-radionica.com/hr/li-ion-punjac-s-zastitom-jst.html)
+![charger image](https://e-radionica.com/media/catalog/product/d/s/dsc_0469.jpg)
+[Lithium-ion battery charger with protection(222007)](https://e-radionica.com/hr/li-ion-punjac-s-zastitom-jst.html)
 
 ## Description and details
 Since lithium batteries demand a special charging regime, and you must not charge them on a regular power source, you will need a charger like this one. Affordable, with integrated CC/CV charging regime, definitely the easiest way to charge some lithium batteries. Input voltage is connectable via USB cables or separate terminals. In addition, this charger includes battery protection which means that your cell (18650 battery for example) is protected from overvoltage, undervoltage and a large short circuit current.
